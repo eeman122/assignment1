@@ -1,0 +1,320 @@
+[
+    {
+        "date": "2024-02-11",
+        "electric vehicle": 2,
+        "tesla": 66,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-02-18",
+        "electric vehicle": 2,
+        "tesla": 66,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-02-25",
+        "electric vehicle": 2,
+        "tesla": 70,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-03-03",
+        "electric vehicle": 2,
+        "tesla": 75,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-03-10",
+        "electric vehicle": 2,
+        "tesla": 70,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-03-17",
+        "electric vehicle": 2,
+        "tesla": 73,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-03-24",
+        "electric vehicle": 2,
+        "tesla": 72,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-03-31",
+        "electric vehicle": 2,
+        "tesla": 78,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-04-07",
+        "electric vehicle": 2,
+        "tesla": 74,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-04-14",
+        "electric vehicle": 2,
+        "tesla": 82,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-04-21",
+        "electric vehicle": 2,
+        "tesla": 96,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-04-28",
+        "electric vehicle": 2,
+        "tesla": 83,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-05-05",
+        "electric vehicle": 1,
+        "tesla": 71,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-05-12",
+        "electric vehicle": 2,
+        "tesla": 73,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-05-19",
+        "electric vehicle": 1,
+        "tesla": 70,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-05-26",
+        "electric vehicle": 1,
+        "tesla": 71,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-06-02",
+        "electric vehicle": 1,
+        "tesla": 71,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-06-09",
+        "electric vehicle": 1,
+        "tesla": 79,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-06-16",
+        "electric vehicle": 1,
+        "tesla": 72,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-06-23",
+        "electric vehicle": 1,
+        "tesla": 68,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-06-30",
+        "electric vehicle": 1,
+        "tesla": 74,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-07-07",
+        "electric vehicle": 1,
+        "tesla": 77,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-07-14",
+        "electric vehicle": 2,
+        "tesla": 75,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-07-21",
+        "electric vehicle": 2,
+        "tesla": 82,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-07-28",
+        "electric vehicle": 1,
+        "tesla": 69,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-08-04",
+        "electric vehicle": 1,
+        "tesla": 71,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-08-11",
+        "electric vehicle": 1,
+        "tesla": 71,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-08-18",
+        "electric vehicle": 2,
+        "tesla": 68,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-08-25",
+        "electric vehicle": 1,
+        "tesla": 65,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-09-01",
+        "electric vehicle": 2,
+        "tesla": 66,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-09-08",
+        "electric vehicle": 2,
+        "tesla": 65,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-09-15",
+        "electric vehicle": 1,
+        "tesla": 64,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-09-22",
+        "electric vehicle": 2,
+        "tesla": 66,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-09-29",
+        "electric vehicle": 1,
+        "tesla": 67,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-10-06",
+        "electric vehicle": 2,
+        "tesla": 87,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-10-13",
+        "electric vehicle": 1,
+        "tesla": 90,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-10-20",
+        "electric vehicle": 1,
+        "tesla": 88,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-10-27",
+        "electric vehicle": 1,
+        "tesla": 77,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-11-03",
+        "electric vehicle": 2,
+        "tesla": 98,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-11-10",
+        "electric vehicle": 2,
+        "tesla": 100,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-11-17",
+        "electric vehicle": 2,
+        "tesla": 90,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-11-24",
+        "electric vehicle": 2,
+        "tesla": 84,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-12-01",
+        "electric vehicle": 2,
+        "tesla": 83,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-12-08",
+        "electric vehicle": 1,
+        "tesla": 91,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-12-15",
+        "electric vehicle": 1,
+        "tesla": 92,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-12-22",
+        "electric vehicle": 1,
+        "tesla": 86,
+        "ev charging": 2
+    },
+    {
+        "date": "2024-12-29",
+        "electric vehicle": 1,
+        "tesla": 100,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-01-05",
+        "electric vehicle": 1,
+        "tesla": 88,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-01-12",
+        "electric vehicle": 2,
+        "tesla": 81,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-01-19",
+        "electric vehicle": 2,
+        "tesla": 87,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-01-26",
+        "electric vehicle": 2,
+        "tesla": 88,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-02-02",
+        "electric vehicle": 2,
+        "tesla": 85,
+        "ev charging": 2
+    },
+    {
+        "date": "2025-02-09",
+        "electric vehicle": 2,
+        "tesla": 81,
+        "ev charging": 2
+    }
+]
